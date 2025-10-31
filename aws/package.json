@@ -1,0 +1,8 @@
+{
+  "name": "mail-form-aws",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@aws-sdk/client-ses": "^3.635.0"
+  }
+}
